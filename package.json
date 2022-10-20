@@ -1,16 +1,16 @@
 {
-"name": "area15thslot",
-"theme": "area 15th slot",
-"version": "7.2.7",
-"description": "area 15th slot ทางเข้าหลักเว็บพนันเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
-"keywords": [
-"area 15th slot",
-"area 15th slot เครดิตฟรี",
-"area 15th slot ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/area15thslot",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "area15thslot",
+  "theme": "area 15th slot",
+  "version": "7.3.0",
+  "description": "area 15th slot ทางเข้าหลักเว็บพนันเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
+  "keywords": [
+    "area 15th slot",
+    "area 15th slot เครดิตฟรี",
+    "area 15th slot ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/area15thslot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
